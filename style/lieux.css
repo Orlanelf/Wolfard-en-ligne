@@ -1,0 +1,27 @@
+
+.carousel-item {
+	max-height: 750px;
+}
+
+h2{
+	display: flex;
+	justify-content: center;
+}
+
+body {
+	background-color: lightgrey;
+}
+
+p{
+	display: flex;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+
+
+
+
+}
